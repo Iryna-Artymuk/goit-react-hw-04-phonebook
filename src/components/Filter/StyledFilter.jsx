@@ -8,14 +8,13 @@ const StyledFilterWrapper = styled.div`
   justify-content: center;
   padding: 20px;
 
-  box-shadow: 0.3em 0.3em 0.3em 0.3em
-    rgba(0.4, 0.4, 0.4, 0.4);
+  box-shadow: 0.3em 0.3em 0.3em 0.3em rgba(0.4, 0.4, 0.4, 0.4);
   border-radius: 10px;
   background: rgba(241, 101, 231, 0.8);
 
   input {
     display: flex;
-    width: 300px;
+    width: 30vw;
     gap: 5px;
     justify-content: center;
     align-items: center;
